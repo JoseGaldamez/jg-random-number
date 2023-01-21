@@ -1,4 +1,4 @@
-const getRandomDouble = (min, max, decimals = 2) => {
+const getRandomFloat = (min, max, decimals = 2) => {
   if (
     typeof min !== "number" ||
     typeof max !== "number" ||
@@ -21,5 +21,5 @@ const getRandomDouble = (min, max, decimals = 2) => {
 };
 
 module.exports = {
-  getRandomDouble,
+  getRandomFloat,
 };

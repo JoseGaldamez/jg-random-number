@@ -1,6 +1,6 @@
 {
   "name": "jg-random-number",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Get a random number in a range",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,21 @@
     "type": "git",
     "url": "git+https://github.com/JoseGaldamez/jg-random-number.git"
   },
-  "keywords": [],
+  "keywords": [
+    "random",
+    "number",
+    "range",
+    "random number",
+    "random number in a range",
+    "random double number",
+    "random integer number",
+    "random int number",
+    "random float number",
+    "random integer in a range",
+    "random double in a range",
+    "random int in a range",
+    "random float in a range"
+  ],
   "author": "Jose Galdamez <josegaldamez1991@gmail.com>",
   "license": "MIT",
   "bugs": {
